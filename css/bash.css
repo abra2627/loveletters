@@ -1,0 +1,49 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Major Mono Display', monospace;
+}
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 2em;
+	text-align: center;
+}
+
+.command {
+	font-size: 3em;
+	font-weight: bold;
+	color: black;
+	/*padding-right: 2em;*/
+}
+
+.action {
+	float: center;
+	/*padding-right: 3em;*/
+	font-size: 2em;
+}
+
+span {
+	padding: .3em;
+	padding-top: 3em;
+}
+
+nav {
+		padding-bottom: 5px;
+}
+
+nav a{
+	text-decoration: none;
+	color: rgb(38, 214, 214);
+	padding-right: 8px;
+}
+
+nav a:hover{
+	text-decoration: underline;
+
+}
+
+p {
+	font-size: 1.5em;
+}

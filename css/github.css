@@ -1,0 +1,33 @@
+body {
+	font-family: 'Tangerine', cursive;
+	background-color: #A29BFF;
+	/*font-weight: bold;*/
+	color: white;
+}
+
+nav {
+	font-family: 'Fredericka the Great', cursive;
+	margin-bottom: 9em;
+}
+
+.nav {
+	color: white;
+	font-size: 2em;
+	padding-left: 2em;
+}
+
+
+p {
+	font-size: 2em;
+}
+
+a {
+	color: white;
+}
+
+.container {
+	padding: 25px 150px 175px 150px;
+	background-color: rgb(254, 202, 239);
+	margin: auto;
+	max-width: 650px;
+}

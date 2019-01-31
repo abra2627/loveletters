@@ -1,0 +1,38 @@
+body {
+	font-family: 'Noto Serif SC', serif;
+	text-align: left;
+	padding-left: 30%;
+}
+
+nav {
+	text-align: center;
+	padding-bottom: 4px;
+	padding-right: 7em;
+}
+
+nav a {
+	padding-right: 15px;
+	color: grey;
+}
+
+p {
+	text-align: center;
+	padding-right: 22em;
+}
+
+.command {
+	display: inline-block;
+	background-color: grey;
+	margin-bottom: 15px;
+	border-radius: 4px;
+	padding: 1px 5px 3px 5px;
+}
+
+.action {
+	float: right;
+	padding-right: 23em;
+}
+
+.defs {
+	padding-top: 35px;
+}
